@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FBFBFB"
+    tools:context=".MakeAppointment01">
+
+    <TextView
+        android:id="@+id/tv_makeAppo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/tv_makeAppo"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_selectProvince"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/tv_selectProvince"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_makeAppo" />
+
+    <Button
+        android:id="@+id/btn_central"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/btn_central"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/btn_eastern"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_selectProvince" />
+
+    <Button
+        android:id="@+id/btn_eastern"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_eastern"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_central"
+        app:layout_constraintEnd_toStartOf="@+id/btn_northCentral"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_central" />
+
+    <Button
+        android:id="@+id/btn_northCentral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_northCentral"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_eastern"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_eastern" />
+
+    <Button
+        android:id="@+id/btn_northern"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/btn_northern"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/btn_northWestern"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_central" />
+
+    <Button
+        android:id="@+id/btn_northWestern"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_northWestern"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_northern"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_northern" />
+
+    <Button
+        android:id="@+id/btn_sabaragamuwa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/btn_sabaragamuwa"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/btn_uva"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_northern" />
+
+    <Button
+        android:id="@+id/btn_uva"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_uva"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_sabaragamuwa"
+        app:layout_constraintEnd_toStartOf="@+id/btn_western"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_sabaragamuwa" />
+
+    <Button
+        android:id="@+id/btn_western"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_western"
+        android:textColor="@color/black"
+        app:backgroundTint="@color/white"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_uva"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_uva" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
