@@ -20,37 +20,66 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="267dp"
-        android:layout_height="95dp"
-        android:layout_marginTop="128dp"
-        android:text="hello world"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.562"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/btn_appo"
+        android:layout_width="140dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Book Your Doctor"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:backgroundTint="@color/material_on_primary_emphasis_high_type"
+        app:layout_constraintEnd_toStartOf="@+id/button7"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintTop_toTopOf="@+id/nav_host_fragment_content_main" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="204dp"
+        android:id="@+id/button7"
+        android:layout_width="140dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
         android:text="Button"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent" />
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:backgroundTint="@color/material_on_primary_emphasis_high_type"
+        app:layout_constraintBaseline_toBaselineOf="@+id/btn_appo"
+        app:layout_constraintEnd_toStartOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_appo" />
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="200dp"
-        android:layout_height="56dp"
-        android:layout_marginStart="116dp"
-        android:layout_marginLeft="116dp"
-        android:layout_marginTop="72dp"
-        android:text="IT20127046 - Loshith"
-        android:textSize="20sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="140dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Button"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:backgroundTint="@color/material_on_primary_emphasis_high_type"
+        app:layout_constraintEnd_toStartOf="@+id/button9"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintTop_toBottomOf="@+id/btn_appo" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="140dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:text="Button"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:backgroundTint="@color/material_on_primary_emphasis_high_type"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button8"
+        app:layout_constraintEnd_toStartOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button8" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
