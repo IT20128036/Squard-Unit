@@ -1,5 +1,7 @@
 package com.example.healthyrate;
 
+import android.content.Intent;
+
 public class HospitalProvince {
     private String hID;
     private String province;
@@ -67,4 +69,5 @@ public class HospitalProvince {
     public void setConNo(Integer conNo) {
         this.conNo = conNo;
     }
+
 }

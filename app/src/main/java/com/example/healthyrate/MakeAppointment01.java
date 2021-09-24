@@ -1,30 +1,16 @@
 package com.example.healthyrate;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.EditText;
-import android.widget.ListView;
-import android.widget.Toast;
-
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-
-import org.jetbrains.annotations.NotNull;
-
-import java.util.ArrayList;
 
 public class MakeAppointment01 extends AppCompatActivity {
 
-    private ListView hospitalListView;
+    private Button viewButton;
+    private Button btnDoctorNext01;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +26,36 @@ public class MakeAppointment01 extends AppCompatActivity {
             }
         });
 
+        // Move to Insert Hospital Activity
+        viewButton = findViewById(R.id.btn_central);
+
+        viewButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                String userProvince = "Central";
+
+                Intent intent = new Intent(MakeAppointment01.this, HospitalList.class);
+                intent.putExtra("userProvince", userProvince);
+                startActivity(intent);
+            }
+        });
+
+        // Move to DoctorList Activity
+        btnDoctorNext01 = findViewById(R.id.btnBookDoctor);
+        btnDoctorNext01.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String doctorHospital = "Nawaloka Hospital";
+                String hospitalID = "wp0001";
+
+                Intent intent1 = new Intent(MakeAppointment01.this, DoctorList.class);
+                intent1.putExtra("doctorHospital", doctorHospital);
+                intent1.putExtra("hospitalID", hospitalID);
+                startActivity(intent1);
+            }
+        });
+
     }
 
     // Move to Insert Hospital Activity
@@ -47,4 +63,5 @@ public class MakeAppointment01 extends AppCompatActivity {
         Intent intent = new Intent(this, TestAppointmentInsert.class);
         startActivity(intent);
     }
+
 }
