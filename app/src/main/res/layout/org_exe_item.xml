@@ -36,7 +36,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
-                android:text="@string/txtDDD"
+                android:text="2021.10.05"
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
@@ -65,7 +65,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
-                android:text="@string/txtfff"
+                android:text="2.30"
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
@@ -93,7 +93,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
-                android:text="@string/txtttt"
+                android:text="3.30"
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
@@ -121,7 +121,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
-                android:text="@string/tctttdes"
+                android:text="walking"
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
