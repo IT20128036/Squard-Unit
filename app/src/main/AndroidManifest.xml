@@ -9,22 +9,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthyRate">
-        <activity android:name=".ConfirmAppointment"></activity>
-        <activity android:name=".AddAppointment" />
-        <activity android:name=".DoctorList" />
-        <activity android:name=".HospitalList" />
-        <activity android:name=".TestAppointmentInsert" />
-        <activity android:name=".MakeAppointment01" />
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.HealthyRate.NoActionBar">
+
+        <activity android:name=".Oxygen_level_calculate">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <activity android:name=".Delete_Test_Report"/>
+        <activity android:name=".Update_Test_Result" />
+        <activity android:name=".Search_Test_Result" />
+        <activity android:name=".Covid_Test_Result" />
+        <activity android:name=".ShowActivity" />
+        <activity android:name=".Covid_Test_Appointment" />
+
+
+
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.HealthyRate.NoActionBar" />
     </application>
 
 </manifest>
