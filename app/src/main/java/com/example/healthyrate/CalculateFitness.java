@@ -24,7 +24,7 @@ public class CalculateFitness extends AppCompatActivity {
     String status;
 
 
-
+    //round to two decimal format
     private static DecimalFormat df = new DecimalFormat("0.00");
 
 
