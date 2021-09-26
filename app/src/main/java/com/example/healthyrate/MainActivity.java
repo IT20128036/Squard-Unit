@@ -58,6 +58,14 @@ public class MainActivity extends AppCompatActivity {
                 openNextActivityMakeAppointment();
             }
         });
+        // Intent for Test Button - IT20127046
+        final Button btnTest = findViewById(R.id.btn_test);
+        btnTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openManageAppointment();
+            }
+        });
     }
 
     @Override
@@ -78,5 +86,10 @@ public class MainActivity extends AppCompatActivity {
     public void openNextActivityMakeAppointment(){
         Intent intent = new Intent(this, MakeAppointment01.class);
         startActivity(intent);
+    }
+    // Move to Manage Appointment - IT20127046
+    public void openManageAppointment() {
+        Intent intent2 = new Intent(this, ManageUserBookingNew.class);
+        startActivity(intent2);
     }
 }

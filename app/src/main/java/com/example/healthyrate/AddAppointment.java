@@ -29,7 +29,8 @@ public class AddAppointment extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_appointment);
 
-        String hName = "Nawaloka Hospital";
+        String userID = "uid0001";
+        String hName = "Best Life Hospital";
         String dName = "Dr. Namal Perera";
 
         appoID = findViewById(R.id.pt_appoID);
@@ -58,7 +59,8 @@ public class AddAppointment extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(), "Please enter a Contact No", Toast.LENGTH_SHORT).show();
                     else {
                         appointment.setAppoID(appoID.getText().toString().trim());
-                        appointment.setPatientName(hName);
+                        appointment.setUserID(userID);
+                        appointment.setHospitalName(hName);
                         appointment.setDoctorName(dName);
                         appointment.setPatientName(addName.getText().toString().trim());
                         appointment.setPatientAge(addAge.getText().toString().trim());

@@ -63,10 +63,11 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="20dp"
         android:text="Patient Name :"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/progressBar" />
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
     <TextView
         android:id="@+id/textView21"
@@ -76,6 +77,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
         android:text="Age :"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView20" />
 
@@ -87,6 +89,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
         android:text="Address :"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView21" />
 
@@ -98,6 +101,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
         android:text="Contact No :"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView22" />
 
@@ -105,10 +109,12 @@
         android:id="@+id/pt_addName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="28dp"
-        android:layout_marginLeft="28dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:background="@drawable/rounded_lh"
         android:ems="10"
         android:inputType="textPersonName"
+        android:padding="5dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView20"
         app:layout_constraintStart_toEndOf="@+id/textView20" />
 
@@ -118,8 +124,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="92dp"
         android:layout_marginLeft="92dp"
+        android:background="@drawable/rounded_lh"
         android:ems="10"
         android:inputType="textPersonName"
+        android:padding="5dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView21"
         app:layout_constraintStart_toEndOf="@+id/textView21" />
 
@@ -129,8 +137,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="64dp"
         android:layout_marginLeft="64dp"
+        android:background="@drawable/rounded_lh"
         android:ems="10"
         android:inputType="textPersonName"
+        android:padding="5dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView22"
         app:layout_constraintStart_toEndOf="@+id/textView22" />
 
@@ -138,10 +148,12 @@
         android:id="@+id/pt_addConNo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="44dp"
-        android:layout_marginLeft="44dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/rounded_lh"
         android:ems="10"
         android:inputType="textPersonName"
+        android:padding="5dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView23"
         app:layout_constraintStart_toEndOf="@+id/textView23" />
 
@@ -153,6 +165,7 @@
         android:layout_marginLeft="32dp"
         android:layout_marginTop="32dp"
         android:text="Date"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView23" />
 
@@ -160,10 +173,12 @@
         android:id="@+id/ed_addDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="92dp"
-        android:layout_marginLeft="92dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginLeft="96dp"
+        android:background="@drawable/rounded_lh"
         android:ems="10"
         android:inputType="date"
+        android:padding="5dp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView24"
         app:layout_constraintStart_toEndOf="@+id/textView24" />
 
@@ -172,9 +187,8 @@
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="395dp"
         android:layout_height="9dp"
-        android:layout_marginTop="44dp"
+        android:layout_marginTop="4dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_dName" />
 
@@ -182,7 +196,7 @@
         android:id="@+id/btn_checkBook"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="12dp"
         android:text="@string/btn_checkBook"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -193,12 +207,24 @@
         android:id="@+id/pt_appoID"
         android:layout_width="211dp"
         android:layout_height="28dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginRight="92dp"
         android:ems="10"
         android:inputType="textPersonName"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Enter Your Details"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_dName" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

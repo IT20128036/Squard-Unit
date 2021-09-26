@@ -18,13 +18,13 @@ public class MakeAppointment01 extends AppCompatActivity {
         setContentView(R.layout.activity_make_appointment01);
 
         // Insert Hospitals to the Database
-        final Button btn_AddHospital = findViewById(R.id.btn_adminAddHospital);
-        btn_AddHospital.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                insertHospitalToDB();
-            }
-        });
+        //final Button btn_AddHospital = findViewById(R.id.btn_adminAddHospital);
+        //btn_AddHospital.setOnClickListener(new View.OnClickListener() {
+            //@Override
+            //public void onClick(View v) {
+                //insertHospitalToDB();
+            //}
+        //});
 
         // Move to Insert Hospital Activity
         viewButton = findViewById(R.id.btn_central);

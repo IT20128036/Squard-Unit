@@ -31,13 +31,13 @@
         android:textColor="@color/black"
         android:textSize="16sp"
         app:backgroundTint="@color/material_on_primary_emphasis_high_type"
-        app:layout_constraintEnd_toStartOf="@+id/button7"
+        app:layout_constraintEnd_toStartOf="@+id/btn_test"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/nav_host_fragment_content_main"
         app:layout_constraintTop_toTopOf="@+id/nav_host_fragment_content_main" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/btn_test"
         android:layout_width="140dp"
         android:layout_height="160dp"
         android:layout_marginStart="16dp"

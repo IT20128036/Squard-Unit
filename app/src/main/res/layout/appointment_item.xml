@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/ltv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Doctor Name"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/newDoctorName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Doctor Name : "
+            android:layout_below="@id/ltv1"
+            android:background="@drawable/rounded_lh"
+            android:padding="4dp"/>
+        <TextView
+            android:id="@+id/newBookingDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Booking Date : "
+            android:layout_below="@id/newDoctorName"/>
+        <TextView
+            android:id="@+id/newPatientName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Patient Name : "
+            android:layout_below="@id/newBookingDate"/>
+        <TextView
+            android:id="@+id/newPatientAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Patient Age : "
+            android:layout_below="@id/newPatientName"/>
+        <TextView
+            android:id="@+id/newPatientAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Patient Address : "
+            android:layout_below="@id/newPatientAge"/>
+        <TextView
+            android:id="@+id/newPatientConNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Patient Contact No : "
+            android:layout_below="@id/newPatientAddress"/>
+
+        <LinearLayout
+            android:id="@+id/ly1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/newPatientConNo"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_editAppointment"
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:text="Edit"
+                android:textAllCaps="false"
+                android:layout_marginRight="5dp"/>
+
+            <Button
+                android:id="@+id/btn_cancelAppointment"
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:textAllCaps="false"
+                android:layout_marginLeft="5dp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

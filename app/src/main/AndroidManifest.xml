@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthyRate">
-        <activity android:name=".ConfirmAppointment"></activity>
+        <activity android:name=".ManageUserBookingNew"></activity>
+        <activity android:name=".UpdateUserBooking" />
+        <activity android:name=".ManageUserBooking" />
+        <activity android:name=".ConfirmAppointment" />
         <activity android:name=".AddAppointment" />
         <activity android:name=".DoctorList" />
         <activity android:name=".HospitalList" />

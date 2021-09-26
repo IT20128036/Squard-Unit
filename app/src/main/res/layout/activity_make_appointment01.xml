@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="@string/tv_makeAppo"
-        android:textSize="26sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,13 +23,12 @@
         android:id="@+id/tv_selectProvince"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="44dp"
-        android:layout_marginLeft="44dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="16dp"
         android:text="@string/tv_selectProvince"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="18sp"
-        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_makeAppo" />
 
@@ -39,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="@string/btn_central"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintEnd_toStartOf="@+id/btn_eastern"
         app:layout_constraintHorizontal_bias="0.5"
@@ -51,7 +50,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_eastern"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_central"
         app:layout_constraintEnd_toStartOf="@+id/btn_northCentral"
@@ -63,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_northCentral"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_eastern"
         app:layout_constraintEnd_toEndOf="parent"
@@ -76,7 +75,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="@string/btn_northern"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintEnd_toStartOf="@+id/btn_northWestern"
         app:layout_constraintHorizontal_bias="0.5"
@@ -88,7 +87,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_northWestern"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_northern"
         app:layout_constraintEnd_toEndOf="parent"
@@ -101,7 +100,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="@string/btn_sabaragamuwa"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintEnd_toStartOf="@+id/btn_uva"
         app:layout_constraintHorizontal_bias="0.5"
@@ -113,7 +112,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_uva"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_sabaragamuwa"
         app:layout_constraintEnd_toStartOf="@+id/btn_western"
@@ -125,23 +124,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_western"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:backgroundTint="@android:color/holo_blue_dark"
         app:layout_constraintBaseline_toBaselineOf="@+id/btn_uva"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btn_uva" />
-
-    <Button
-        android:id="@+id/btn_adminAddHospital"
-        android:layout_width="101dp"
-        android:layout_height="37dp"
-        android:layout_marginTop="48dp"
-        android:layout_marginEnd="28dp"
-        android:layout_marginRight="28dp"
-        android:text="Insert"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView4"
@@ -181,7 +169,7 @@
                 android:background="@color/common_google_signin_btn_text_light_disabled"
                 android:paddingLeft="20dp"
                 android:paddingRight="20dp"
-                android:text="Nawaloka Hospital"
+                android:text="New Healthy Hospital"
                 android:textSize="24sp" />
 
             <LinearLayout
@@ -272,7 +260,7 @@
                 android:background="@color/common_google_signin_btn_text_light_disabled"
                 android:paddingLeft="20dp"
                 android:paddingRight="20dp"
-                android:text="Lanka Hospital"
+                android:text="Best Life Hospital"
                 android:textSize="24sp" />
 
             <LinearLayout
