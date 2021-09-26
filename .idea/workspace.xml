@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632623074595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new updated main">
+      <created>1632638175421</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632638175421</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +275,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update fitness part" />
@@ -277,7 +285,8 @@
     <MESSAGE value="rounded to decimal" />
     <MESSAGE value="updated" />
     <MESSAGE value="new updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="new updated" />
+    <MESSAGE value="new updated main" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updated main" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1632495233743">
@@ -296,10 +305,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="527" y="154" key="AndroidCreateXmlResourceDialog/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632541550644" />
-    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1632623073601">
+    <state x="251" y="0" key="CommitChangelistDialog2" timestamp="1632638174155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632623073601" />
+    <state x="251" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632638174155" />
     <state x="128" y="55" key="DiffContextDialog" timestamp="1632617392156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -328,14 +337,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="107" key="IDE.errors.dialog/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632187090433" />
-    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1632618009568">
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1632638255402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632618009568" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1632623078392">
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632638255402" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1632638277308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632623078392" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-360.1280.728@0.0.1366.728" timestamp="1632638277308" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632621399482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
