@@ -32,6 +32,8 @@ public class AddAppointment extends AppCompatActivity {
         String hName = "Nawaloka Hospital";
         String dName = "Dr. Namal Perera";
 
+
+
         appoID = findViewById(R.id.pt_appoID);
         addName = findViewById(R.id.pt_addName);
         addAge = findViewById(R.id.pt_addAge);
