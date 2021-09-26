@@ -129,7 +129,7 @@ public class CalculateFitness extends AppCompatActivity {
     public void sendData() {
 
 
-        // String Hrate,THrate,Iweight,Bmi,Bmr,Bfat;
+        //String Hrate,THrate,Iweight,Bmi,Bmr,Bfat;
 
         int agee= Integer.parseInt(age.getText().toString());
 
