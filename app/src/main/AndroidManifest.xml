@@ -19,6 +19,7 @@
         <activity android:name=".TestAppointmentInsert" />
         <activity android:name=".MakeAppointment01" />
         <activity
+
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.HealthyRate.NoActionBar">
