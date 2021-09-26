@@ -1,0 +1,87 @@
+com/example/healthyrate/databinding/FragmentGalleryBinding.java
+ com.example.healthyrate.databinding.FragmentGalleryBinding
+com/example/healthyrate/Update_Test_Result.java
+ com.example.healthyrate.Update_Test_Result
+ com.example.healthyrate.Update_Test_Result$1
+ com.example.healthyrate.Update_Test_Result$2
+com/example/healthyrate/ui/gallery/GalleryViewModel.java
+ com.example.healthyrate.ui.gallery.GalleryViewModel
+com/example/healthyrate/databinding/ActivityCovidTestAppointmentBinding.java
+ com.example.healthyrate.databinding.ActivityCovidTestAppointmentBinding
+com/example/healthyrate/databinding/ItemBinding.java
+ com.example.healthyrate.databinding.ItemBinding
+com/example/healthyrate/Model.java
+ com.example.healthyrate.Model
+com/example/healthyrate/ui/home/HomeViewModel.java
+ com.example.healthyrate.ui.home.HomeViewModel
+com/example/healthyrate/databinding/ActivityCovidTestResultBinding.java
+ com.example.healthyrate.databinding.ActivityCovidTestResultBinding
+com/example/healthyrate/Covid_Test_Appointment.java
+ com.example.healthyrate.Covid_Test_Appointment
+ com.example.healthyrate.Covid_Test_Appointment$1
+ com.example.healthyrate.Covid_Test_Appointment$2
+ com.example.healthyrate.Covid_Test_Appointment$3
+ com.example.healthyrate.Covid_Test_Appointment$4
+ com.example.healthyrate.Covid_Test_Appointment$5
+com/example/healthyrate/databinding/FragmentSlideshowBinding.java
+ com.example.healthyrate.databinding.FragmentSlideshowBinding
+com/example/healthyrate/databinding/FragmentHomeBinding.java
+ com.example.healthyrate.databinding.FragmentHomeBinding
+com/example/healthyrate/databinding/NavHeaderMainBinding.java
+ com.example.healthyrate.databinding.NavHeaderMainBinding
+com/example/healthyrate/databinding/ContentMainBinding.java
+ com.example.healthyrate.databinding.ContentMainBinding
+com/example/healthyrate/databinding/ActivitySearchTestResultBinding.java
+ com.example.healthyrate.databinding.ActivitySearchTestResultBinding
+com/example/healthyrate/BuildConfig.java
+ com.example.healthyrate.BuildConfig
+com/example/healthyrate/ShowActivity.java
+ com.example.healthyrate.ShowActivity
+ com.example.healthyrate.ShowActivity$1
+com/example/healthyrate/ui/slideshow/SlideshowFragment.java
+ com.example.healthyrate.ui.slideshow.SlideshowFragment
+ com.example.healthyrate.ui.slideshow.SlideshowFragment$1
+com/example/healthyrate/databinding/ActivityUpdateTestResultBinding.java
+ com.example.healthyrate.databinding.ActivityUpdateTestResultBinding
+com/example/healthyrate/databinding/ActivityMainBinding.java
+ com.example.healthyrate.databinding.ActivityMainBinding
+com/example/healthyrate/ui/home/HomeFragment.java
+ com.example.healthyrate.ui.home.HomeFragment
+ com.example.healthyrate.ui.home.HomeFragment$1
+com/example/healthyrate/patients.java
+ com.example.healthyrate.patients
+com/example/healthyrate/MyAdapter.java
+ com.example.healthyrate.MyAdapter
+ com.example.healthyrate.MyAdapter$MyViewHolder
+com/example/healthyrate/databinding/ActivityOxygenLevelCalculateBinding.java
+ com.example.healthyrate.databinding.ActivityOxygenLevelCalculateBinding
+com/example/healthyrate/Oxygen_level_calculate.java
+ com.example.healthyrate.Oxygen_level_calculate
+com/example/healthyrate/databinding/ActivityDeleteTestReportBinding.java
+ com.example.healthyrate.databinding.ActivityDeleteTestReportBinding
+com/example/healthyrate/ui/slideshow/SlideshowViewModel.java
+ com.example.healthyrate.ui.slideshow.SlideshowViewModel
+com/example/healthyrate/databinding/ActivityShowBinding.java
+ com.example.healthyrate.databinding.ActivityShowBinding
+com/example/healthyrate/ui/gallery/GalleryFragment.java
+ com.example.healthyrate.ui.gallery.GalleryFragment
+ com.example.healthyrate.ui.gallery.GalleryFragment$1
+com/example/healthyrate/MainActivity.java
+ com.example.healthyrate.MainActivity
+ com.example.healthyrate.MainActivity$1
+com/example/healthyrate/databinding/AppBarMainBinding.java
+ com.example.healthyrate.databinding.AppBarMainBinding
+com/example/healthyrate/Result.java
+ com.example.healthyrate.Result
+com/example/healthyrate/Covid_Test_Result.java
+ com.example.healthyrate.Covid_Test_Result
+ com.example.healthyrate.Covid_Test_Result$1
+ com.example.healthyrate.Covid_Test_Result$1$1
+com/example/healthyrate/Delete_Test_Report.java
+ com.example.healthyrate.Delete_Test_Report
+ com.example.healthyrate.Delete_Test_Report$1
+ com.example.healthyrate.Delete_Test_Report$2
+com/example/healthyrate/Search_Test_Result.java
+ com.example.healthyrate.Search_Test_Result
+ com.example.healthyrate.Search_Test_Result$1
+ com.example.healthyrate.Search_Test_Result$2

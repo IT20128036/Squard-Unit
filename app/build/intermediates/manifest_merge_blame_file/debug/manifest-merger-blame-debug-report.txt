@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthyrate"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:26:22-64
+15
+16    <application
+16-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:5:5-40:19
+17        android:allowBackup="true"
+17-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:6:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:7:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:8:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:9:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:10:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.HealthyRate" >
+25-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:11:9-49
+26        <activity android:name="com.example.healthyrate.Covid_Test_Appointment" />
+26-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:13:9-60
+26-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:13:19-57
+27        <activity android:name="com.example.healthyrate.ShowActivity" />
+27-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:14:9-50
+27-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:14:19-47
+28        <activity android:name="com.example.healthyrate.Covid_Test_Result" />
+28-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:15:9-54
+28-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:15:19-52
+29        <activity android:name="com.example.healthyrate.Update_Test_Result" />
+29-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:16:9-56
+29-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:16:19-53
+30        <activity android:name="com.example.healthyrate.Delete_Test_Report" />
+30-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:17:9-55
+30-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:17:19-53
+31        <activity android:name="com.example.healthyrate.Search_Test_Result" />
+31-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:18:9-56
+31-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:18:19-53
+32        <activity android:name="com.example.healthyrate.Oxygen_level_calculate" >
+32-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:24:13-31:20
+32-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:24:23-61
+33            <intent-filter>
+33-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:25:9-29:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:26:13-65
+34-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:26:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:28:13-73
+36-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:28:23-70
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:36:9-39:68
+40            android:name="com.example.healthyrate.MainActivity"
+40-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:37:13-41
+41            android:label="@string/app_name"
+41-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:38:13-45
+42            android:theme="@style/Theme.HealthyRate.NoActionBar" />
+42-->C:\Users\CHAMAKA MENDIS\OneDrive\Desktop\Mad Project\app\src\main\AndroidManifest.xml:39:13-65
+43
+44        <service
+44-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+45            android:name="com.google.firebase.components.ComponentDiscoveryService"
+45-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:30:13-84
+46            android:directBootAware="true"
+46-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+47            android:exported="false" >
+47-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:31:13-37
+48            <meta-data
+48-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+49                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+49-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+50                android:value="com.google.firebase.components.ComponentRegistrar" />
+50-->[com.google.firebase:firebase-database:20.0.2] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+51        </service>
+52
+53        <provider
+53-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+54            android:name="com.google.firebase.provider.FirebaseInitProvider"
+54-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+55            android:authorities="com.example.healthyrate.firebaseinitprovider"
+55-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+56            android:directBootAware="true"
+56-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+57            android:exported="false"
+57-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+58            android:initOrder="100" />
+58-->[com.google.firebase:firebase-common:20.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+59
+60        <activity
+60-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+61            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+61-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+62            android:exported="false"
+62-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+63            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+63-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+64
+65        <meta-data
+65-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+66            android:name="com.google.android.gms.version"
+66-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+67            android:value="@integer/google_play_services_version" />
+67-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\CHAMAKA MENDIS\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+68    </application>
+69
+70</manifest>

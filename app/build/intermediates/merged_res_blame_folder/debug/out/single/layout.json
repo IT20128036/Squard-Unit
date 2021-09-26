@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_test_result.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_update_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_covid_test_appointment.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_covid_test_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search_test_result.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_search_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_oxygen_level_calculate.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_oxygen_level_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_delete_test_report.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_delete_test_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_show.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_covid_test_result.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\activity_covid_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\CHAMAKA MENDIS\\OneDrive\\Desktop\\Mad Project\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    }
+]
