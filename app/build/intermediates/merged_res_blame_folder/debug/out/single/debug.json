@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_mastercard_logo_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_mastercard_logo_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_calculate_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_calculate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_org_add_exercise.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_org_add_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lab_report_retrive_data.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_lab_report_retrive_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ex_timer.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ex_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospital_list.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_hospital_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_doctor_116.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_doctor_116.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_stars_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_stars_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_hospital_item.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\hospital_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_appointment01.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_make_appointment01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_test_result.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_search_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_org_exer_show.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_org_exer_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_esearch.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\menu\\esearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retrive_lab_data.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_retrive_lab_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_date_new.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\date_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_exercise.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_add_new_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_accessibility_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calculate_fitness.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_calculate_fitness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_enew.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_enew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_science_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_science_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_popup.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\update_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_covid_test_result.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_covid_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_org_exercise_new.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_org_exercise_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_paypal_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_paypal_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_covid_test_appointment.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_covid_test_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textview_border.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\textview_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_exitem.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\exitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_get_lab_report.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_get_lab_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_credit_card_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_credit_card_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_list.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_doctor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_accessibility_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_online_payment_with_a_credit_card_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_online_payment_with_a_credit_card_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_doctor_116__1_.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_doctor_116__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_save_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_two_tickets_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_two_tickets_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_accessibility_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appointment_lab.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_appointment_lab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_save_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_save_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_oxygen_level_calculate.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_oxygen_level_calculate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_esearch_icon.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\esearch_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_perm_identity_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_appointment_insert.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_test_appointment_insert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_showe.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_showe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result_fitness.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_result_fitness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_appointment.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_confirm_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_accessibility_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_visa_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_visa_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_accessibility_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_accessibility_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flame_1787.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\flame_1787.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_accessibility_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_science_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_science_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_pnr_code_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_pnr_code_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arabica_159.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\arabica_159.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_edit_icon_e.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\edit_icon_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_enew.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_enew.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_edit_profile_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_edit_profile_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_itemss.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\list_itemss.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_american_express_96.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\icons8_american_express_96.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_test_result.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_update_test_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_date_range_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_date_range_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_appointment.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_add_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ex_timer.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ex_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delete_test_report.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\activity_delete_test_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_esearch_icon.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\esearch_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_date_new.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\date_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_edit_icon_e.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\edit_icon_e.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_timer_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wavy_tech_31_single_01.jpg.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable\\wavy_tech_31_single_01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\layout_org_exe_item.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\layout\\org_exe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_stars_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_stars_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_timer_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_timer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1_lh.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\src\\main\\res\\drawable-v24\\bg1_lh.png"
+    },
+    {
+        "merged": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_accessibility_24.png.flat",
+        "source": "C:\\Users\\Beengrp\\Desktop\\final pro\\final pro\\Orginal Mad Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_accessibility_24.png"
+    }
+]

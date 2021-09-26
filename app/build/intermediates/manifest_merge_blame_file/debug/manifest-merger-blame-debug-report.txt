@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthyrate"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:25:22-76
+16
+17    <application
+17-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:7:5-46:19
+18        android:allowBackup="true"
+18-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:8:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.5.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\e81257837f1767da48ac036f752f439b\core-1.5.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:9:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:10:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:11:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:12:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.HealthyRate" >
+26-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:13:9-49
+27        <activity android:name="com.example.healthyrate.org_add_exercise" />
+27-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:14:9-63
+27-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:14:19-51
+28        <activity android:name="com.example.healthyrate.org_Exer_show" >
+28-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:15:9-22:20
+28-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:15:19-48
+29            <intent-filter>
+29-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:16:13-20:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:17:17-69
+30-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:17:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:19:17-77
+32-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:19:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.example.healthyrate.org_Exercise_new" >
+35-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:23:9-26:20
+35-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:23:19-51
+36        </activity>
+37        <activity android:name="com.example.healthyrate.ResultFitness" />
+37-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:27:9-51
+37-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:27:19-48
+38        <activity android:name="com.example.healthyrate.CalculateFitness" >
+38-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:28:9-30:20
+38-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:28:19-51
+39        </activity>
+40        <activity android:name="com.example.healthyrate.ShoweActivity" >
+40-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:32:9-33:20
+40-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:32:19-48
+41        </activity>
+42        <activity android:name="com.example.healthyrate.Add_New_Exercise" />
+42-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:34:9-63
+42-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:34:19-51
+43        <activity android:name="com.example.healthyrate.appointment_lab" >
+43-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:35:9-38:20
+43-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:35:19-50
+44        </activity>
+45        <activity android:name="com.example.healthyrate.labReport_retrive_data" />
+45-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:39:9-60
+45-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:39:19-57
+46        <activity android:name="com.example.healthyrate.retrive_Lab_data" />
+46-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:40:9-54
+46-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:40:19-51
+47        <activity android:name="com.example.healthyrate.Get_lab_report" />
+47-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:41:9-52
+47-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:41:19-49
+48        <activity
+48-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:42:9-45:68
+49            android:name="com.example.healthyrate.MainActivity"
+49-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:43:13-41
+50            android:label="@string/app_name"
+50-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:44:13-45
+51            android:theme="@style/Theme.HealthyRate.NoActionBar" />
+51-->C:\Users\Beengrp\Desktop\final pro\final pro\Orginal Mad Project\app\src\main\AndroidManifest.xml:45:13-65
+52
+53        <service
+53-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+54            android:name="com.google.firebase.components.ComponentDiscoveryService"
+54-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:30:13-84
+55            android:directBootAware="true"
+55-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+56            android:exported="false" >
+56-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:31:13-37
+57            <meta-data
+57-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+58                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+58-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-database:20.0.2] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\a636cd2ebae322b484e101f25a9ed29b\firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+60        </service>
+61
+62        <provider
+62-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+63            android:name="com.google.firebase.provider.FirebaseInitProvider"
+63-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+64            android:authorities="com.example.healthyrate.firebaseinitprovider"
+64-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+65            android:directBootAware="true"
+65-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+66            android:exported="false"
+66-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+67            android:initOrder="100" />
+67-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\f974751ac5677ce8830189f78881ba9c\firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+68
+69        <activity
+69-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+70            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+70-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+71            android:exported="false"
+71-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+72            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+72-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\efec7e0c5f71242a130c2f522d69d3f7\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+73
+74        <meta-data
+74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+75            android:name="com.google.android.gms.version"
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+76            android:value="@integer/google_play_services_version" />
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Beengrp\.gradle\caches\transforms-2\files-2.1\10b1e51736e27fda30f62ca5156f7b46\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+77    </application>
+78
+79</manifest>
