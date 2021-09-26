@@ -22,7 +22,7 @@ public class Add_New_Exercise extends AppCompatActivity {
     execise exerObj;
 
 
-    //new
+
     
     /*
     private String uDate,uFrom,uTo,uDes;
