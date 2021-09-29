@@ -1,8 +1,10 @@
 package com.example.healthyrate;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
+import android.widget.Button;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -47,6 +49,23 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
+
+        // Intent for Make Appointment Button - IT20127046
+        final Button buttonMakeAppo = findViewById(R.id.btn_appo);
+        buttonMakeAppo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openNextActivityMakeAppointment();
+            }
+        });
+        // Intent for Test Button - IT20127046
+        final Button btnTest = findViewById(R.id.btn_test);
+        btnTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openManageAppointment();
+            }
+        });
     }
 
     @Override
@@ -61,5 +80,16 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
+    }
+
+    // Move to Next Activity - IT20127046
+    public void openNextActivityMakeAppointment(){
+        Intent intent = new Intent(this, MakeAppointment01.class);
+        startActivity(intent);
+    }
+    // Move to Manage Appointment - IT20127046
+    public void openManageAppointment() {
+        Intent intent2 = new Intent(this, ManageUserBookingNew.class);
+        startActivity(intent2);
     }
 }
